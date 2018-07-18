@@ -1,1 +1,2 @@
 # fastqueue
+For learning purpose.
